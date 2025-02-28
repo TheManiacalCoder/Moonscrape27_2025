@@ -1,0 +1,12 @@
+
+                    Benchmark Report for Search: tesla stock news
+                    =============================
+                    
+                    Total Duration: 9.80 seconds
+                    
+                    Resource Usage:
+                    - Total Requests: 1
+                    - Total Tokens Processed: 189
+                    - URLs Processed: 1
+                    - Summary Length: 7509 characters
+                    

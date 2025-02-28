@@ -1,0 +1,8 @@
+{
+    "email": "sean@mediamasters.ca",
+    "api_key": "43dd9ffafc698610",
+    "openrouter": {
+        "api_key": "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",
+        "ai_model": "amazon/nova-micro-v1"
+    }
+}
